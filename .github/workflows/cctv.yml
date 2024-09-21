@@ -2,6 +2,7 @@ name: cctv
 
 on:
   schedule:
+    - cron: '30 20 * * *'
     - cron: '30 8 * * *'
   push:
     branches:
@@ -45,3 +46,5 @@ jobs:
           #git pull --rebase
           git push -f
 
+    env:
+      TZ: Asia/Shanghai
