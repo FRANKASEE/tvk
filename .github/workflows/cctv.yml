@@ -45,5 +45,3 @@ jobs:
           #git pull --rebase
           git push -f
 
-    env:
-      TZ: Asia/Shanghai
