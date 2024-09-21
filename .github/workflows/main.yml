@@ -2,7 +2,7 @@ name: itvlist
 
 on:
   schedule:
-    - cron: '30 20 * * *'
+    - cron: '0 18 * * *'
 
 jobs:
   build:
@@ -41,6 +41,3 @@ jobs:
           git commit *.m3u -m "Add generated file"
           #git pull --rebase
           git push -f
-
-    env:
-      TZ: Asia/Shanghai
