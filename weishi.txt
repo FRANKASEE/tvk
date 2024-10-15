@@ -10,7 +10,6 @@
 山东卫视,http://36.40.236.150:9999/tsfile/live/0143_2.m3u8?key=txiptv&playlive=0&authid=0
 山西卫视,http://36.40.236.150:9999/tsfile/live/0132_3.m3u8?key=txiptv&playlive=0&authid=0
 广东卫视,http://36.40.236.150:9999/tsfile/live/0131_2.m3u8?key=txiptv&playlive=0&authid=0
-江苏卫视,http://36.40.236.150:9999/tsfile/live/0123_2.m3u8?key=txiptv&playlive=0&authid=0
 江西卫视,http://36.40.236.150:9999/tsfile/live/0132_8.m3u8?key=txiptv&playlive=0&authid=0
 河北卫视,http://36.40.236.150:9999/tsfile/live/0135_2.m3u8?key=txiptv&playlive=0&authid=0
 浙江卫视,http://36.40.236.150:9999/tsfile/live/0130_2.m3u8?key=txiptv&playlive=0&authid=0
